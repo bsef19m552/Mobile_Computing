@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kidapp.iml" filepath="$PROJECT_DIR$/.idea/modules/kidapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kidapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kidapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kidapp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kidapp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kidapp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kidapp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kidapp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kidapp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
