@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/crud"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_margin="5dp"
+        android:id="@+id/id_input"
+        android:hint="ID : "
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_margin="10dp"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        android:text="FETCH DATA"
+        android:id="@+id/update_id_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
